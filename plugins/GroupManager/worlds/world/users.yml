@@ -6,7 +6,7 @@ users:
     permissions:
     - groupmanager.noofflineperms
   sitheguy32:
-    group: Admin
+    group: Owner
     subgroups: []
     permissions:
     - groupmanager.noofflineperms
