@@ -1,0 +1,8 @@
+logs
+
+# world data
+/world*/
+
+# plugin data
+plugins/Essentials/userdata
+plugins/PluginMetrics/config.yml

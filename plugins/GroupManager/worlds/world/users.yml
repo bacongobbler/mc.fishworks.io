@@ -1,0 +1,12 @@
+users:
+  c84cfab3-8fa7-4b77-be57-89abf5378fa8:
+    lastname: mat431
+    group: Owner
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  sitheguy32:
+    group: Admin
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
