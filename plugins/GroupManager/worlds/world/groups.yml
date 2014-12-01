@@ -26,7 +26,7 @@ groups:
     default: false
     permissions: []
     inheritance:
-    - default
+    - user
     - g:essentials_builder
     - g:towny_builder
     info:

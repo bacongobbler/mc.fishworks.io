@@ -288,7 +288,7 @@ backup:
   interval: 30
   # Unless you add a valid backup command or script here, this feature will be useless.
   # Use 'save-all' to simply force regular world saving without backup.
-  command: 'rdiff-backup world backups/world'
+  command: '/usr/bin/rdiff-backup /root/mc.fishworks.io/world /backups/world'
 
 # Set this true to enable permission per warp.
 per-warp-permission: false
