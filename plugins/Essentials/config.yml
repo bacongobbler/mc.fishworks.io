@@ -518,14 +518,20 @@ chat:
   # If set to the default chat format which "should" be compatible with ichat.
   # For more information of chat formatting, check out the wiki: http://wiki.ess3.net/wiki/Chat_Formatting
 
-  format: '[{GROUP}] <{DISPLAYNAME}>: {MESSAGE}'
+  format: '<{DISPLAYNAME}> [{GROUP}]: {MESSAGE}'
   #format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
 
   group-formats:
-  #  Default: '{WORLDNAME} {DISPLAYNAME}&7:&r {MESSAGE}'
-  #  Admins: '{WORLDNAME} &c[{GROUP}]&r {DISPLAYNAME}&7:&c {MESSAGE}'
-
-  # If you are using group formats make sure to remove the '#' to allow the setting to be read.
+    peasant: '<{DISPLAYNAME}> [{GROUP}]: {MESSAGE}'
+    citizen: '<{DISPLAYNAME}> [&8{GROUP}&f]: {MESSAGE}'
+    knight: '<{DISPLAYNAME}> [&1{GROUP}&f]: {MESSAGE}'
+    count: '<{DISPLAYNAME}> [&2{GROUP}&f]: {MESSAGE}'
+    marquis: '<{DISPLAYNAME}> [&3{GROUP}&f]: {MESSAGE}'
+    duke: '<{DISPLAYNAME}> [&4{GROUP}&f]: {MESSAGE}'
+    archduke: '<{DISPLAYNAME}> [&5{GROUP}&f]: {MESSAGE}'
+    mod: '<{DISPLAYNAME}> [&a{GROUP}&f]: {MESSAGE}'
+    admin: '<{DISPLAYNAME}> [&b{GROUP}&f]: {MESSAGE}'
+    owner: '<{DISPLAYNAME}> [&d{GROUP}&f]: {MESSAGE}'
 
 ############################################################
 # +------------------------------------------------------+ #

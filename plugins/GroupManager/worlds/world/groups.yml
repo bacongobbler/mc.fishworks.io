@@ -9,7 +9,7 @@
 # Local group inheritances define your promotion tree when using 'manpromote/mandemote'
 
 groups:
-  User:
+  peasant:
     default: true
     permissions:
     - -bukkit.command.kill
@@ -20,9 +20,9 @@ groups:
     - g:towny_default
     info:
       prefix: '&e'
-      build: false
+      build: true
       suffix: ''
-  Builder:
+  citizen:
     default: false
     permissions: []
     inheritance:
@@ -33,11 +33,56 @@ groups:
       prefix: '&2'
       build: true
       suffix: ''
-  Moderator:
+  knight:
     default: false
     permissions: []
     inheritance:
-    - builder
+    - citizen
+    info:
+      prefix: '&e'
+      build: true
+      suffix: ''
+  count:
+    default: false
+    permissions: []
+    inheritance:
+    - knight
+    info:
+      prefix: '&e'
+      build: true
+      suffix: ''
+  marquis:
+    default: false
+    permissions: []
+    inheritance:
+    - count
+    info:
+      prefix: '&e'
+      build: true
+      suffix: ''
+  duke:
+    default: false
+    permissions: []
+    inheritance:
+    - marquis
+    info:
+      prefix: '&e'
+      build: true
+      suffix: ''
+  archduke:
+    default: false
+    permissions: []
+    inheritance:
+    - duke
+    info:
+      prefix: '&e'
+      build: true
+      suffix: ''
+  mod:
+    default: false
+    permissions: []
+    inheritance:
+    - archduke
     - g:groupmanager_moderator
     - g:bukkit_moderator
     - g:essentials_moderator
@@ -47,11 +92,11 @@ groups:
       prefix: '&5'
       build: true
       suffix: ''
-  Admin:
+  admin:
     default: false
     permissions: []
     inheritance:
-    - moderator
+    - mod
     - g:groupmanager_admin
     - g:bukkit_admin
     - g:essentials_admin
@@ -61,7 +106,7 @@ groups:
       prefix: '&c'
       build: true
       suffix: ''
-  Owner:
+  owner:
     default: false
     permissions:
     - '*'

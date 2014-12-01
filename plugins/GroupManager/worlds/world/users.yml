@@ -1,33 +1,33 @@
 users:
   449acf21-c09d-4425-8dea-8b6436814750:
     lastname: Vindex1898
-    group: Admin
+    group: admin
     subgroups: []
     permissions: []
   75b35e55-7a4d-4d6f-add6-6f44a4f13914:
     lastname: chickenswiper
-    group: Builder
+    group: knight
     subgroups: []
     permissions: []
   79d61f53-f8a8-4b52-97af-8a00e7e8a926:
     lastname: Isaacman777
-    group: Admin
+    group: admin
     subgroups: []
     permissions: []
   8d7fde1a-6b7c-4283-ac1e-b0ba80e47f6f:
     lastname: sitheguy32
-    group: Owner
+    group: owner
     subgroups: []
     permissions:
     - groupmanager.noofflineperms
   c84cfab3-8fa7-4b77-be57-89abf5378fa8:
     lastname: mat431
-    group: Owner
+    group: owner
     subgroups: []
     permissions:
     - groupmanager.noofflineperms
   d2a0add9-88ea-4fa2-8861-495d7115a09a:
     lastname: fishboy51
-    group: Builder
+    group: duke
     subgroups: []
     permissions: []
