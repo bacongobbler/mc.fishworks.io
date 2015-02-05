@@ -1,0 +1,19 @@
+ranks:
+  rank1Here:
+    cost: 5
+    cooldown: 10000
+  rank2Here:
+    cost: 15
+    cooldown: 10000
+  rank3Here:
+    cost: 20
+    cooldown: 10000
+messages:
+  no-permission: '&4You do not have permission to perform this command.'
+  no-money: '&4You do not have enough money to perform this action.'
+  not-valid-type: '&4Please use a valid item to smelt.'
+  on-cooldown: '&4You are still on a cooldown.'
+  successful-one: '&aItem from your hand was successfully smelted.'
+  successful-all: '&aEvery smeltable item from your inventory was successfully smelted.'
+  only-player: 'This command can only be used by a player.'
+  config-reload: '&aYou have successfully reloaded the config file.'

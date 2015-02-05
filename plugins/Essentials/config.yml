@@ -226,25 +226,57 @@ player-commands:
 # 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
 # For more information, visit http://wiki.ess3.net/wiki/Kits
 kits:
-  tools:
-    delay: 10
+  citizen:
+    # once per 2 days
+    delay: 172800
     items:
-      - 272 1
-      - 273 1
-      - 274 1
-      - 275 1
-  dtools:
-    delay: 600
+      - 276 1 sharpness:2 fireaspect:1 name:&6Donor_Sword
+      - 322 1
+  knight:
+    # once per 2 days
+    delay: 172800
     items:
-      - 278 1 efficiency:1 durability:1 fortune:1 name:&4Gigadrill lore:The_drill_that_&npierces|the_heavens
-      - 277 1 digspeed:3 name:Dwarf lore:Diggy|Diggy|Hole
-      - 298 1 color:255,255,255 name:Top_Hat lore:Good_day,_Good_day
-      - 279:780 1
+      - 310 1 protection:2 unbreaking:2 name:&6Donor_Helm
+      - 311 1 protection:2 unbreaking:2 name:&6Donor_Chestplate
+      - 312 1 protection:2 unbreaking:2 name:&6Donor_Legs
+      - 313 1 protection:2 unbreaking:2 name:&6Donor_Boots
+      - 322 2
+  count:
+    # once per 2 days
+    delay: 172800
+    items:
+      - 277 1 efficiency:5 unbreaking:5 fortune:5 name:&6Donor_Shovel
+      - 278 1 efficiency:5 unbreaking:5 fortune:5 name:&6Donor_Pickaxe
+      - 279 1 efficiency:5 unbreaking:5 fortune:5 name:&6Donor_Axe
+      - 322 3
+  marquis:
+    # once per 4 days
+    delay: 345600
+    items:
+      - 276 1 sharpness:6 fireaspect:3 unbreaking:3 name:&dDonor+_Sword
+      - 322 4
+  duke:
+    # once per 4 days
+    delay: 345600
+    items:
+      - 310 1 protection:6 unbreaking:5 fireprotection:5 name:&dDonor+_Helm
+      - 311 1 protection:6 unbreaking:5 fireprotection:5 name:&dDonor+_Chestplate
+      - 312 1 protection:6 unbreaking:5 fireprotection:5 name:&dDonor+_Legs
+      - 313 1 protection:6 unbreaking:5 fireprotection:5 name:&dDonor+_Boots
+      - 322 5
+  archduke:
+    # once per 4 days
+    delay: 345600
+    items:
+      - 277 1 efficiency:5 unbreaking:8 fortune:10 name:&dDonor+_Shovel
+      - 278 1 efficiency:5 unbreaking:8 fortune:10 name:&dDonor+_Pickaxe
+      - 279 1 efficiency:5 unbreaking:8 fortune:10 name:&dDonor+_Axe
+      - 322 6
   color:
     delay: 6000
     items:
       - 387 1 title:&4Book_&9o_&6Colors author:KHobbits lore:Ingame_color_codes book:Colors
-  firework:
+  fireworks:
     delay: 6000
     items:
       - 401 1 name:Angry_Creeper color:red fade:green type:creeper power:1
@@ -288,7 +320,7 @@ backup:
   interval: 30
   # Unless you add a valid backup command or script here, this feature will be useless.
   # Use 'save-all' to simply force regular world saving without backup.
-  command: '/usr/bin/rdiff-backup /root/mc.fishworks.io/world /backups/world'
+  command: 'save-all'
 
 # Set this true to enable permission per warp.
 per-warp-permission: false
@@ -393,7 +425,7 @@ repair-enchanted: true
 
 # Allow 'unsafe' enchantments in kits and item spawning.
 # Warning: Mixing and overleveling some enchantments can cause issues with clients, servers and plugins.
-unsafe-enchantments: false
+unsafe-enchantments: true
 
 #Do you want essentials to keep track of previous location for /back in the teleport listener?
 #If you set this to true any plugin that uses teleport will have the previous location registered.
@@ -523,14 +555,14 @@ chat:
 
   group-formats:
     peasant: '<{DISPLAYNAME}> [{GROUP}]: {MESSAGE}'
-    citizen: '<{DISPLAYNAME}> [&8{GROUP}&f]: {MESSAGE}'
-    knight: '<{DISPLAYNAME}> [&1{GROUP}&f]: {MESSAGE}'
-    count: '<{DISPLAYNAME}> [&2{GROUP}&f]: {MESSAGE}'
-    marquis: '<{DISPLAYNAME}> [&3{GROUP}&f]: {MESSAGE}'
-    duke: '<{DISPLAYNAME}> [&4{GROUP}&f]: {MESSAGE}'
-    archduke: '<{DISPLAYNAME}> [&5{GROUP}&f]: {MESSAGE}'
+    citizen: '<{DISPLAYNAME}> [&7{GROUP}&f]: {MESSAGE}'
+    knight: '<{DISPLAYNAME}> [&9{GROUP}&f]: {MESSAGE}'
+    count: '<{DISPLAYNAME}> [&3{GROUP}&f]: {MESSAGE}'
+    marquis: '<{DISPLAYNAME}> [&b{GROUP}&f]: {MESSAGE}'
+    duke: '<{DISPLAYNAME}> [&e{GROUP}&f]: {MESSAGE}'
+    archduke: '<{DISPLAYNAME}> [&6{GROUP}&f]: {MESSAGE}'
     mod: '<{DISPLAYNAME}> [&a{GROUP}&f]: {MESSAGE}'
-    admin: '<{DISPLAYNAME}> [&b{GROUP}&f]: {MESSAGE}'
+    admin: '<{DISPLAYNAME}> [&c{GROUP}&f]: {MESSAGE}'
     owner: '<{DISPLAYNAME}> [&d{GROUP}&f]: {MESSAGE}'
 
 ############################################################
@@ -573,34 +605,34 @@ protect:
     entitytarget: false
     # Prevent the spawning of creatures.
     spawn:
-      creeper: true
-      skeleton: true
-      spider: true
-      giant: true
-      zombie: true
-      slime: true
-      ghast: true
-      pig_zombie: true
-      enderman: true
-      cave_spider: true
-      silverfish: true
-      blaze: true
-      magma_cube: true
-      ender_dragon: true
+      creeper: false
+      skeleton: false
+      spider: false
+      giant: false
+      zombie: false
+      slime: false
+      ghast: false
+      pig_zombie: false
+      enderman: false
+      cave_spider: false
+      silverfish: false
+      blaze: false
+      magma_cube: false
+      ender_dragon: false
       pig: false
       sheep: false
       cow: false
       chicken: false
-      squid: true
+      squid: false
       wolf: false
       mushroom_cow: false
       snowman: false
       ocelot: false
       iron_golem: false
       villager: false
-      wither: true
-      bat: true
-      witch: true
+      wither: false
+      bat: false
+      witch: false
       horse: false
 
   # Maximum height the creeper should explode. -1 allows them to explode everywhere.

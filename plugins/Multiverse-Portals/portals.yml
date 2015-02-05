@@ -1,0 +1,41 @@
+portals:
+  spawnToSurvival:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: mat431
+    location: -168.0,64.0,308.0:-168.0,68.0,312.0
+    world: world
+    destination: survival
+  survivalToTown:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: mat431
+    location: 184.0,64.0,283.0:187.0,67.0,283.0
+    world: survival
+    destination: world
+  PlotToTown:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: mat431
+    location: 1603.0,4.0,-2186.0:1606.0,7.0,-2186.0
+    world: plots
+    destination: world
+  PlotToSurvival:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: mat431
+    location: 1609.0,4.0,-2186.0:1612.0,7.0,-2186.0
+    world: plots
+    destination: survival

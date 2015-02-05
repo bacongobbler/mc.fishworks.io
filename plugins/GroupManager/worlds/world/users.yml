@@ -1,4 +1,14 @@
 users:
+  32a481bb-aa0e-44b9-8594-bc257fa7df4f:
+    lastname: Mmmmmmmmkay
+    group: citizen
+    subgroups: []
+    permissions: []
+  3b64a659-4b65-4911-bd17-99c858f7c1a9:
+    lastname: forcooki
+    group: count
+    subgroups: []
+    permissions: []
   449acf21-c09d-4425-8dea-8b6436814750:
     lastname: Vindex1898
     group: admin

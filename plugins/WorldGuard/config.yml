@@ -68,12 +68,12 @@ physics:
     allow-portal-anywhere: false
     disable-water-damage-blocks: []
 ignition:
-    block-tnt: false
-    block-tnt-block-damage: false
-    block-lighter: false
+    block-tnt: true
+    block-tnt-block-damage: true
+    block-lighter: true
 fire:
     disable-lava-fire-spread: true
-    disable-all-fire-spread: false
+    disable-all-fire-spread: true
     disable-fire-spread-blocks: []
     lava-spread-blocks: []
 mobs:

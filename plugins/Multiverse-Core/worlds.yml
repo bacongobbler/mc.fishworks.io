@@ -1,0 +1,107 @@
+worlds:
+  world:
+    seed: -5737971023163580639
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: false
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: -180.0
+      y: 64.0
+      z: 310.0
+      pitch: 0.0
+      yaw: 0.0
+      world: world
+    autoload: true
+    bedrespawn: true
+  survival:
+    seed: 8335685896653751982
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: false
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 184.0
+      y: 64.0
+      z: 295.0
+      pitch: 0.0
+      yaw: 0.0
+      world: survival
+    autoload: true
+    bedrespawn: true
+  plotworld:
+    generator: PlotMe
+    seed: 5854121509987196790
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: false
+    scale: 1.0
+    respawnworld: ''
+    allowweather: false
+    difficulty: EASY
+    animals:
+      spawn: false
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 3.5
+      y: 66.0
+      z: 3.5
+      pitch: 0.0
+      yaw: 0.0
+      world: plotworld
+    autoload: true
+    bedrespawn: true

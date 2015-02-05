@@ -120,7 +120,6 @@ groups:
     - essentials.balance.others
     - essentials.balancetop
     - essentials.book
-    - essentials.chat.color
     - essentials.chat.format
     - essentials.chat.shout
     - essentials.chat.question
@@ -129,7 +128,6 @@ groups:
     - essentials.depth
     - essentials.exp
     - essentials.getpos
-    - essentials.hat
     - essentials.home
     - essentials.ignore
     - essentials.itemdb
@@ -141,11 +139,8 @@ groups:
     - essentials.msg
     - essentials.msg.color
     - essentials.msg.format
-    - essentials.nick
     - essentials.pay
     - essentials.ping
-    - essentials.powertool
-    - essentials.powertooltoggle
     - essentials.protect
     - essentials.recipe
     - essentials.seen

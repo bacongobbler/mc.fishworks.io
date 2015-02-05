@@ -13,4 +13,6 @@
 command-block-overrides: []
 aliases:
   icanhasbukkit:
-  - version $1-
+  - version
+  craft:
+  - workbench

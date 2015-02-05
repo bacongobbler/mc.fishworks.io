@@ -1,17 +1,17 @@
 worth:
-  stonebutton: 6.0
+  stonebutton: 0.50
   wood: 0.50
   arrow: 3.50
   diamondpickaxe: 650.0
   rawfish: 5.0
   minecart: 23.0
-  leatherchestplate: 85.0
+  leatherchestplate: 50.0
   storageminecart: 30.0
   leaves: 1.0
   feather: 3.0
   goldchestplate: 6.5
   mushroomsoup: 4.5
-  bread: 30.0
+  bread: 5.0
   stationarywater: 1.0
   workbench: 2.5
   stonehoe: 2.5
@@ -24,7 +24,7 @@ worth:
   grass: 1.0
   poweredminecart: 32.0
   snowball: 1.0
-  goldenapple: 100.0
+  goldenapple: 1000.0
   leatherleggings: 75.0
   log: 2.0
   diamondaxe: 650.0
@@ -33,14 +33,14 @@ worth:
   stonespade: 1.5
   claybrick: 5.0
   noteblock: 36.0
-  ironaxe: 22.0
-  coalore: 15.0
+  ironaxe: 2.0
+  coalore: 5.0
   clayball: 3.0
   fishingrod: 10.0
-  ironhoe: 22.0
+  ironhoe: 2.0
   goldrecord: 100.0
-  ironpickaxe: 22.0
-  irondoor: 22.0
+  ironpickaxe: 2.0
+  irondoor: 2.0
   bucket: 22.0
   redrose: 2.0
   grilledpork: 7.0
@@ -60,9 +60,9 @@ worth:
   seeds: 2.0
   painting: 25.0
   woodplate: 1.0
-  redstoneore: 30.0
+  redstoneore: 3.0
   diamondspade: 210.0
-  waterbucket: 40.0
+  waterbucket: 35.0
   water: 1.0
   bedrock: 100.0
   irondoorblock: 15.0
@@ -70,21 +70,21 @@ worth:
   sand: 1.0
   goldsword: 6.0
   stoneaxe: 3.0
-  bookshelf: 140.0
-  ironblock: 190.0
-  jackolantern: 56.0
+  bookshelf: 10.0
+  ironblock: 100.0
+  jackolantern: 10.0
   boat: 3.0
   diamondchestplate: 1750.0
-  redstonewire: 30.0
+  redstonewire: 5.0
   redmushroom: 2.0
   string: 5.0
-  stoneplate: 6.0
+  stoneplate: 3.0
   wallsign: 1.0
   cactus: 10.0
   sulphur: 20.0
   rails: 22.0
   ironore: 18.0
-  leatherhelmet: 52.0
+  leatherhelmet: 30.0
   stone: 3.00
   egg: 1.0
   diamondore: 200.0
@@ -103,8 +103,8 @@ worth:
   woodstairs: 1.0
   ironingot: 22.0
   goldore: 45.0
-  pumpkin: 50.0
-  bed: 68.0
+  pumpkin: 7.0
+  bed: 40.0
   watch: 6.0
   ironleggings: 22.0
   sign: 1.5
@@ -114,14 +114,14 @@ worth:
   chainmailboots: 30.0
   diamondleggings: 1500.0
   cookedfish: 7.0
-  saddle: 100.0
+  saddle: 60.0
   cobblestonestairs: 1.5
   tnt: 100.0
-  glowingredstoneore: 30.0
+  glowingredstoneore: 5.0
   apple: 10.0
   woodspade: 1.0
-  goldingot: 105.0
-  diode: 110.0
+  goldingot: 60.0
+  diode: 50.0
   soil: 1.0
   clay: 12.0
   goldblock: 450.0
@@ -138,13 +138,13 @@ worth:
   goldboots: 6.0
   sponge: 80.0
   stonesword: 2.5
-  coal: 15.0
+  coal: 5.0
   goldaxe: 6.0
   bone: 2.0
   diamond: 200.0
   glass: 3.00
   goldspade: 6.0
-  lapisblock: 950.0
+  lapisblock: 50.0
   lavabucket: 40.0
   wheat: 9.0
   ladder: 0.5
@@ -153,11 +153,11 @@ worth:
   chainmailchestplate: 40.0
   sapling: 2.0
   diamondboots: 850.0
-  lapisore: 100.0
-  lava: 25.0
+  lapisore: 10.0
+  lava: 0.0
   milkbucket: 40.0
-  redstone: 32.0
-  greenrecord: 100.0
+  redstone: 5.0
+  greenrecord: 1000.0
   inksack: 10.0
   glowstonedust: 10.0
   book: 45.0

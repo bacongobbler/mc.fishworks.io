@@ -12,75 +12,107 @@ groups:
   peasant:
     default: true
     permissions:
-    - -bukkit.command.kill
+    - bukkit.command.kill
+    - plotme.limit.1
+    - auction.start
+    - auction.bid
+    - essentials.kits.color
+    - ChestShop.shop.*
     inheritance:
     - g:groupmanager_default
     - g:bukkit_default
     - g:essentials_default
     - g:towny_default
+    - g:essentials_builder
+    - g:towny_builder
     info:
-      prefix: '&e'
+      prefix: ''
       build: true
       suffix: ''
   citizen:
     default: false
-    permissions: []
+    permissions:
+    - essentials.tree
+    - essentials.chat.color
+    - essentials.kits.citizen
     inheritance:
-    - user
-    - g:essentials_builder
-    - g:towny_builder
+    - peasant
     info:
-      prefix: '&2'
+      prefix: ''
       build: true
       suffix: ''
   knight:
     default: false
-    permissions: []
+    permissions:
+    - essentials.kits.knight
+    - essentials.enderchest
     inheritance:
     - citizen
     info:
-      prefix: '&e'
+      prefix: ''
       build: true
       suffix: ''
   count:
     default: false
-    permissions: []
+    permissions:
+    - essentials.kits.count
+    - essentials.bigtree
+    - vaults.1
+    - smelter.smelt
+    - essentials.repair
+    - plotme.limit.2
     inheritance:
     - knight
     info:
-      prefix: '&e'
+      prefix: ''
       build: true
       suffix: ''
   marquis:
     default: false
-    permissions: []
+    permissions:
+    - essentials.kits.marquis
+    - essentials.nick
+    - essentials.feed
+    - essentials.workbench
+    - vaults.2
     inheritance:
     - count
     info:
-      prefix: '&e'
+      prefix: ''
       build: true
       suffix: ''
   duke:
     default: false
-    permissions: []
+    permissions:
+    - essentials.kits.duke
+    - essentials.smeltall
+    - plotme.limit.3
     inheritance:
     - marquis
     info:
-      prefix: '&e'
+      prefix: ''
       build: true
       suffix: ''
   archduke:
     default: false
-    permissions: []
+    permissions:
+    - essentials.kits.archduke
+    - essentials.hat
+    - essentials.repair.all
+    - essentials.fly
+    - essentials.clearinventory
+    - vaults.3
     inheritance:
     - duke
     info:
-      prefix: '&e'
+      prefix: ''
       build: true
       suffix: ''
   mod:
     default: false
-    permissions: []
+    permissions:
+    - auction.admin
+    - ChestShop.mod
     inheritance:
     - archduke
     - g:groupmanager_moderator
@@ -89,12 +121,14 @@ groups:
     - g:towny_moderator
     - g:vanish_moderator
     info:
-      prefix: '&5'
+      prefix: ''
       build: true
       suffix: ''
   admin:
     default: false
-    permissions: []
+    permissions:
+    - vaults.admin
+    - ChestShop.admin
     inheritance:
     - mod
     - g:groupmanager_admin
@@ -103,7 +137,7 @@ groups:
     - g:towny_admin
     - g:vanish_admin
     info:
-      prefix: '&c'
+      prefix: ''
       build: true
       suffix: ''
   owner:
@@ -115,6 +149,6 @@ groups:
     inheritance:
     - admin
     info:
-      prefix: '&4'
+      prefix: ''
       build: true
       suffix: ''

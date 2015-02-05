@@ -1,0 +1,190 @@
+2014-12-01 08:35:24 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-01 08:35:24 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-01 08:35:24 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-01 08:35:24 [INFO] [Multiverse-Core] 1 - World(s) loaded.
+2014-12-01 08:36:25 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL
+2014-12-01 08:36:33 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-12-01 08:36:33 [WARNING] [Multiverse-Core] Original Location: X: -12 Y: 64 Z: 20 P: 0 Y: 0 
+2014-12-01 08:36:33 [INFO] [Multiverse-Core] New Spawn for 'survival' is Located at: survival:-16.50,64.00,25.50:0.00:0.00
+2014-12-01 08:39:12 [INFO] [Multiverse-Core] World 'survival' was unloaded from memory.
+2014-12-01 08:39:12 [INFO] [Multiverse-Core] World 'survival' was removed from config.yml
+2014-12-01 08:39:13 [INFO] [Multiverse-Core] World survival was DELETED.
+2014-12-01 08:39:23 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL
+2014-12-02 01:25:42 [INFO] [Multiverse-Core] Loading World & Settings - 'plots' - Env: NORMAL - Type: FLAT
+2014-12-02 05:47:43 [WARNING] [Multiverse-Core] Portal spawnToPlot has an invalid DESTINATION!
+2014-12-02 06:46:42 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-02 06:46:42 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-02 06:46:42 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-02 06:46:43 [INFO] [Multiverse-Core] Loading World & Settings - 'plots' - Env: NORMAL - Type: FLAT & seed: -8776958232419670061
+2014-12-02 06:46:43 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-02 06:49:28 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-02 06:49:28 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-02 06:49:28 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-02 06:49:29 [INFO] [Multiverse-Core] Loading World & Settings - 'plots' - Env: NORMAL - Type: FLAT & seed: -8776958232419670061
+2014-12-02 06:49:29 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-07 23:23:40 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-07 23:23:40 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-07 23:23:40 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-07 23:23:41 [INFO] [Multiverse-Core] Loading World & Settings - 'plots' - Env: NORMAL - Type: FLAT & seed: -8776958232419670061
+2014-12-07 23:23:41 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-08 00:56:07 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-08 00:56:07 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-08 00:56:07 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-08 00:56:08 [INFO] [Multiverse-Core] Loading World & Settings - 'plots' - Env: NORMAL - Type: FLAT & seed: -8776958232419670061
+2014-12-08 00:56:08 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-08 01:03:27 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-08 01:03:27 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-08 01:03:27 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-08 01:03:28 [INFO] [Multiverse-Core] Loading World & Settings - 'plots' - Env: NORMAL - Type: FLAT & seed: -8776958232419670061
+2014-12-08 01:03:28 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-08 01:35:46 [INFO] [Multiverse-Core] World 'plots' was unloaded from memory.
+2014-12-08 01:35:46 [INFO] [Multiverse-Core] World 'plots' was removed from config.yml
+2014-12-08 01:36:27 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & generator: PlotMe
+2014-12-08 01:36:28 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-12-08 01:36:28 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 66 Z: 0 P: 0 Y: 0 
+2014-12-08 01:36:28 [INFO] [Multiverse-Core] New Spawn for 'plotworld' is Located at: plotworld:3.50,66.00,3.50:0.00:0.00
+2014-12-08 02:11:26 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-08 02:11:26 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-08 02:11:26 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-08 02:11:27 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-08 02:11:28 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-08 02:20:53 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-08 02:20:53 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-08 02:20:53 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-08 02:20:54 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-08 02:20:55 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-08 02:57:20 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-08 02:57:20 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-08 02:57:20 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-08 02:57:21 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-08 02:57:21 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-09 07:12:55 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-09 07:12:56 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-09 07:12:56 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-09 07:12:56 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-09 07:12:57 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-09 07:45:08 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-09 07:45:08 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-09 07:45:08 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-09 07:45:09 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-09 07:45:09 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-09 07:52:13 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-09 07:52:13 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-09 07:52:13 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-09 07:52:14 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-09 07:52:15 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-10 03:31:31 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-10 03:31:32 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-10 03:31:32 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-10 03:31:33 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-10 03:31:33 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-10 03:51:40 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-10 03:51:40 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-10 03:51:40 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-10 03:51:41 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-10 03:51:42 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-10 05:30:07 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-10 05:30:07 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-10 05:30:07 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-10 05:30:08 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-10 05:30:08 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-10 06:53:02 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-10 06:53:03 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-10 06:53:03 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-10 06:53:04 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-10 06:53:04 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-10 07:00:39 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-10 07:00:39 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-10 07:00:39 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-10 07:00:40 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-10 07:00:41 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-10 07:14:17 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-10 07:14:17 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-10 07:14:17 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-10 07:14:18 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-10 07:14:18 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-10 07:28:15 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-10 07:28:16 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-10 07:28:16 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-10 07:28:16 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-10 07:28:17 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-10 07:35:30 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-10 07:35:30 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-10 07:35:31 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-10 07:35:31 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-10 07:35:32 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-11 04:53:30 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-11 04:53:31 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-11 04:53:31 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-11 04:53:32 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-11 04:53:32 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-11 06:12:51 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-11 06:12:51 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-11 06:12:51 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-11 06:12:52 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-11 06:12:52 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-11 06:18:00 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-11 06:18:00 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-11 06:18:00 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-11 06:18:01 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-11 06:18:01 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-11 06:20:49 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-11 06:20:49 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-11 06:20:49 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-11 06:20:50 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-11 06:20:50 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-11 06:23:32 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-11 06:23:32 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-11 06:23:32 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-11 06:23:33 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-11 06:23:33 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-11 06:25:21 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-11 06:25:21 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-11 06:25:21 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-11 06:25:22 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-11 06:25:22 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-11 06:48:26 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-11 06:48:26 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-11 06:48:26 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-11 06:48:27 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-11 06:48:27 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-11 06:52:47 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-11 06:52:47 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-11 06:52:47 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-11 06:52:48 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-11 06:52:48 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-11 07:03:18 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-11 07:03:18 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-11 07:03:18 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-11 07:03:19 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-11 07:03:20 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-11 07:16:02 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-11 07:16:02 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-11 07:16:02 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-11 07:16:03 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-11 07:16:04 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-11 07:17:38 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-11 07:17:38 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-11 07:17:38 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-11 07:17:39 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-11 07:17:40 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-11 07:23:09 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-11 07:23:09 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-11 07:23:09 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-11 07:23:10 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-11 07:23:10 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-11 07:23:29 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-11 07:23:29 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-11 07:23:30 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-11 07:23:30 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-11 07:23:30 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-12-11 20:03:51 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-11 20:03:51 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2014-12-11 20:03:51 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2014-12-11 20:03:52 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2014-12-11 20:03:53 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2015-01-12 00:48:47 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2015-01-12 00:48:47 [INFO] [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -5737971023163580639
+2015-01-12 00:48:47 [INFO] [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: 8335685896653751982
+2015-01-12 00:48:48 [INFO] [Multiverse-Core] Loading World & Settings - 'plotworld' - Env: NORMAL - Type: NORMAL & seed: 5854121509987196790 & generator: PlotMe
+2015-01-12 00:48:50 [INFO] [Multiverse-Core] 3 - World(s) loaded.
